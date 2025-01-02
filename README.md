@@ -10,11 +10,14 @@ To run the server locally, follow these steps:
    ```bash
    git clone https://github.com/Shreya-Trigunayat/Notes-craft.git
 2. Navigate to the project directory:
-   ```cd Note-craft
+   ```bash
+   cd Note-craft
 3. Install dependencies:
-   ```npm install
+   ```bash
+   npm install
 4. Start the server:
-   ```npm start
+   ```bash
+   npm start
 
 ## Features
 
