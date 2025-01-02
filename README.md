@@ -4,13 +4,19 @@
 
 Notes-Craft is a secure and intuitive web-based platform for managing personal and shared notes. Built with React for the front-end and Node.js for the back-end, it leverages MongoDB for data storage and JSON Web Tokens (JWT) for secure authentication. This full-stack application allows users to create, edit, delete, and share notes with others, all while ensuring user data privacy.
 
-# Clone
-   -Clone this repo to your local machine.
-# Run server locally
-   $cd client
-   $npm install
-   $cd ../server
-   $npm install
+## Clone
+   Clone this repo to your local machine.
+## Run server locally
+To run the server locally, follow these steps:
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/Shreya-Trigunayat/Notes-craft.git
+2. Navigate to the project directory:
+   cd Note-craft
+3. Install dependencies:
+   npm install
+4. Start the server:
+   npm start
 
 ## Features
 
