@@ -1,4 +1,4 @@
-# Notes-Craft: A Secure Web-Based Note Management Platform
+# Note-Craft: A Secure Web-Based Note Management Platform
 
 ## A Full-Stack Web Application for Seamless Note Management
 
@@ -8,8 +8,8 @@ Notes-Craft is a secure and intuitive web-based platform for managing personal a
 To run the server locally, follow these steps:
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/NoteCraft.git
-   cd NoteCraft
+   git clone https://github.com/your-username/Note-craft.git
+   cd Note-craft
 2. Install dependencies: Navigate to the client and server folders and install dependencies:
    ```bash
    cd client
@@ -52,3 +52,20 @@ To run the server locally, follow these steps:
 - **Authentication:** JSON Web Tokens (JWT)
 - **Security:** bcrypt for password hashing
 - **UI Framework:** Material-UI (MUI) for modern, responsive design
+
+## Note-craft
+![LoginPage](https://github.com/user-attachments/assets/efd18d68-53ad-4800-b8a8-1a83f11fdc2b)
+
+![HomePage](https://github.com/user-attachments/assets/e4aa36a5-6b7d-4fcf-a410-02321707c128)
+
+![WritePage](https://github.com/user-attachments/assets/e1808099-6d3a-44f0-807e-a44a67f4adff)
+
+![ViewPage](https://github.com/user-attachments/assets/fee234c7-d0da-49e2-b31d-1fd4414ee924)
+
+![EditPage](https://github.com/user-attachments/assets/f9da6519-8df5-4d24-b83f-67a79da78af5)
+
+
+
+
+
+
