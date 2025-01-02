@@ -10,10 +10,10 @@ efficiently for both personal and collaborative use.
 
 ## Tech Stack
 
-React.js- A JavaScript library for building reusable, component-based user interfaces with dynamic data rendering.
-Material-UI (MUI)- A React component library for implementing modern, responsive, and customizable design elements, enhancing the user interface.
-Node.js- A JavaScript runtime for building scalable and efficient server-side applications.
-Express.js- A lightweight framework for Node.js used to build APIs and handle server-side logic.
-MongoDB- A NoSQL database that provides flexible, document-oriented data storage, ideal for handling high-performance applications.
-JWT (JSON Web Token)- A secure method for handling user authentication and session management, ensuring data privacy.
-bcrypt- A library used for hashing passwords, offering robust security by encrypting sensitive user data during authentication.
+*React.js- A JavaScript library for building reusable, component-based user interfaces with dynamic data rendering.
+*Material-UI (MUI)- A React component library for implementing modern, responsive, and customizable design elements, enhancing the user interface.
+*Node.js- A JavaScript runtime for building scalable and efficient server-side applications.
+*Express.js- A lightweight framework for Node.js used to build APIs and handle server-side logic.
+*MongoDB- A NoSQL database that provides flexible, document-oriented data storage, ideal for handling high-performance applications.
+*JWT (JSON Web Token)- A secure method for handling user authentication and session management, ensuring data privacy.
+*bcrypt- A library used for hashing passwords, offering robust security by encrypting sensitive user data during authentication.
