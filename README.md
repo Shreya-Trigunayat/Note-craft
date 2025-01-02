@@ -11,7 +11,7 @@ Notes-Craft is a secure and intuitive web-based platform for managing personal a
 To run the server locally, follow these steps:
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/your-username/Note-craft.git
+   git clone https://github.com/Shreya-Trigunayat/Note-craft.git
    cd Note-craft
 2. **Install dependencies**: Navigate to the client and server folders and install dependencies:
    ```bash
