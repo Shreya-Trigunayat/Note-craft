@@ -1,19 +1,14 @@
-# NotesCraft
+# Notes-Craft: A Secure Web-Based Note Management Platform
 
-## About the Application
-Notes-Craft is a secure and intuitive web-based note management platform that allows users to create, edit, and delete their own notes. Additionally, 
-it enables users to view notes shared by others, offering a collaborative environment while maintaining user control over personal content.
+## A Full-Stack Web Application for Seamless Note Management
 
-The platform ensures a clean and responsive interface, providing seamless functionality. Data privacy is a top priority, with restrictions on editing and
-deleting only the notes created by the logged-in user. Designed to be both scalable and user-friendly, Notes-Craft allows individuals to manage their notes
-efficiently for both personal and collaborative use.
+Notes-Craft is a secure and intuitive web-based platform for managing personal and shared notes. Built with React for the front-end and Node.js for the back-end, it leverages MongoDB for data storage and JSON Web Tokens (JWT) for secure authentication. This full-stack application allows users to create, edit, delete, and share notes with others, all while ensuring user data privacy.
 
-## Tech Stack
+## Features
 
-**React.js**- A JavaScript library for building reusable, component-based user interfaces with dynamic data rendering.
-
-**Material-UI (MUI)**- A React component library for implementing modern, responsive, and customizable design elements, enhancing the user interface.
-
+* User Authentication:
+#^ *Signup: Create an account to get started with the note management platform.
+#^ *Signin: Log in to access your notes and interact with shared content.
 **Node.js**- A JavaScript runtime for building scalable and efficient server-side applications.
 
 **Express.js**- A lightweight framework for Node.js used to build APIs and handle server-side logic.
