@@ -8,17 +8,31 @@ Notes-Craft is a secure and intuitive web-based platform for managing personal a
 To run the server locally, follow these steps:
 1. Clone the repository:
    ```bash
-   git clone https://github.com/Shreya-Trigunayat/Notes-craft.git
-2. Navigate to the project directory:
+   git clone https://github.com/your-username/NoteCraft.git
+   cd NoteCraft
+2. Install dependencies: Navigate to the client and server folders and install dependencies:
    ```bash
-   cd Note-craft
-3. Install dependencies:
-   ```bash
+   cd client
    npm install
-4. Start the server:
+   cd ../server
+   npm install
+3. Set up environment variables: Create a .env file in the server folder with the following keys:
+   ```env
+   PORT=5000
+   MONGO_URI=your_mongodb_connection_string
+   JWT_SECRET=your_jwt_secret
+4. Start the development servers
+   - Run the client
    ```bash
+   cd client
    npm start
-
+   - Run the server:
+   ```bash
+   cd server
+   npm run dev
+5. Access the application
+   Open your browser and go to http://localhost:3000 to view the app.
+   
 ## Features
 
 - **User Authentication:** 
